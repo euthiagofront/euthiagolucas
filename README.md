@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá pessoal 👋
 
-<!--
-**euthiagolucas/euthiagolucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☝️ Sou o Thiago, mas meus amigos me chamam de Lucas
+🚀 Sou Estudante de desenvolvimento de sistemas FrontEnd e BackEnd:
 
-Here are some ideas to get you started:
+🖼️ Também estudo Flexbox e JavaScript ES6+ na Origamid.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Eu uso diariamente: .js, .html, .css, node.js, Postgres. 
+
+💙 Minhas paixões além da programação são a gastronomia, música, séries, jogos e RPG.
+🎮 Jogos favoritos: Wolrd of Warcraft, GTA, ;
+📚 Autores favoritos: Edgar Allan Poe, H. P. Lovecraft, Stephen King, Tolkien, J. K. Rowling;
+📺 Séries favoritas: Vikings, Dark, Peaky Blinders,.
+
+💬 Fale comigo!
+Eu ❤️ open source!
