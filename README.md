@@ -38,6 +38,6 @@
   
   ##
   
-  <img align="center" src="![github-user-contribution](https://user-images.githubusercontent.com/65739291/185069262-518c869b-0001-4e67-8dc1-fedc4a39b953.svg)" />
+![github-user-contribution](https://user-images.githubusercontent.com/65739291/185069262-518c869b-0001-4e67-8dc1-fedc4a39b953.svg)
   
 </div> 
